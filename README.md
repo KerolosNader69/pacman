@@ -17,14 +17,18 @@ This project is a simple simulation of the classic Pac-Man game, implemented in 
 
 # How It Works
 The game initializes a random grid of walls and pellets.
+
 Pac-Man automatically finds the best path to the closest pellet using A search*.
+
 Ghosts either chase Pac-Man (AI-controlled) or move randomly.
+
 The game ends when Pac-Man collects all pellets (win) or collides with a ghost (lose).
 
 # Installation
 # Prerequisites
 
 Python 3.x
+
 Pygame Library
 
 # Steps
@@ -56,7 +60,11 @@ python Project_AI.py
 # Technologies Used
 
 Python
+
 Pygame
+
 A Pathfinding Algorithm*
+
 Random Module
+
 Contributors
